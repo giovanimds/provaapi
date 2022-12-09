@@ -1,0 +1,13 @@
+{
+  "imcId": 2,
+  "altura": 1.72,
+  "peso": 90,
+  "resultado": 30.42184964845863,
+  "classificacao": "Obesidade",
+  "grau": "II",
+  "usuario": {
+    "usuarioId": 1,
+    "nome": null,
+    "nascimento": "0001-01-01T00:00:00"
+  }
+}

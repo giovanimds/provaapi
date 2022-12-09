@@ -1,0 +1,13 @@
+{
+  "imcId": 1,
+  "altura": 1.72,
+  "peso": 70,
+  "resultado": 23.661438615467823,
+  "classificacao": "Normal",
+  "grau": "O",
+  "usuario": {
+    "usuarioId": 1,
+    "nome": "Giovani",
+    "nascimento": "2019-01-06T17:16:40"
+  }
+}

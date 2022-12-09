@@ -1,0 +1,217 @@
+PATCH https://localhost:5001/api/imc/alterar
+Content-Type: application/json
+
+{
+  "IMCId": 2,
+  "Altura": 1.72,
+  "Peso": 90,
+  "Usuario": {
+    "UsuarioId": 1
+  }
+}
+
+<> 2022-12-08T194826.200.json
+
+###
+
+PATCH https://localhost:5001/api/imc/alterar
+Content-Type: application/json
+
+{
+  "IMCId": 2,
+  "Altura": 1.72,
+  "Peso": 90,
+  "Usuario": {
+    "UsuarioId": 1
+  }
+}
+
+<> 2022-12-08T194823.200.json
+
+###
+
+POST https://localhost:5001/api/imc/cadastrar
+Content-Type: application/json
+
+{
+  "Altura": 1.72,
+  "Peso": 70,
+  "Usuario": {
+    "UsuarioId": 1
+  }
+}
+
+<> 2022-12-08T194811.201.json
+
+###
+
+PATCH https://localhost:5001/api/imc/alterar
+Content-Type: application/json
+
+{
+  "IMCId": 1,
+  "Altura": 1.72,
+  "Peso": 90,
+  "Usuario": {
+    "UsuarioId": 1
+  }
+}
+
+<> 2022-12-08T194658.200.json
+
+###
+
+POST https://localhost:5001/api/imc/cadastrar
+Content-Type: application/json
+
+{
+  "Altura": 1.72,
+  "Peso": 70,
+  "Usuario": {
+    "UsuarioId": 1
+  }
+}
+
+<> 2022-12-08T194605.201.json
+
+###
+
+POST https://localhost:5001/api/imc/cadastrar
+Content-Type: application/json
+
+{
+  "Altura": 1.72,
+  "Peso": 70,
+  "Usuario": {
+    "UsuarioId": 1
+  }
+}
+
+<> 2022-12-08T194540.500.txt
+
+###
+
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+  "Nome": "wesley",
+  "Nascimento": "2019-01-06T17:16:40"
+}
+
+<> 2022-12-08T194342.200.json
+
+###
+
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+  "Nome": "Giovani",
+  "Nascimento": "2019-01-06T17:16:40"
+}
+
+###
+
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+  "Nome": "Giovani",
+  "Nascimento": "2019-01-06T17:16:40"
+}
+
+<> 2022-12-08T194042.500.txt
+
+###
+
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+  "Nome": "Giovani",
+  "Nascimento": "2019-01-06T17:16:40"
+}
+
+<> 2022-12-08T193837.500.txt
+
+###
+
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+  "Nome": "Giovani",
+  "Nascimento": "2019-01-06T17:16:40"
+}
+
+<> 2022-12-08T193757.500.txt
+
+###
+
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+  "Nome": "Giovani",
+  "Nascimento": "2019-01-06T17:16:40"
+}
+
+###
+
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+  "Nome": "Giovani",
+  "Nascimento": "2019-01-06T17:16:40"
+}
+
+###
+
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+  "Nome": "Giovani",
+  "Nascimento": "25-02-1996"
+}
+
+<> 2022-12-08T193506.400.json
+
+###
+
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+  "Nome": "Giovani",
+  "Nascimento": "25-02-1996"
+}
+
+<> 2022-12-08T193502.400.json
+
+###
+
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+  "Nome": "Giovani",
+  "Nascimento": "25/02/1996"
+}
+
+<> 2022-12-08T193446.400.json
+
+###
+
+POST https://localhost:5001/Usuario/Cadastrar
+Content-Type: application/json
+
+{
+  "Nome": "Giovani",
+  "Nascimento": "25/02/1996"
+}
+
+###
+

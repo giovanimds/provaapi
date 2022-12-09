@@ -1,0 +1,11 @@
+{
+  "type": "https://tools.ietf.org/html/rfc7231#section-6.5.1",
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "00-b6dbbc0a8a11ad4bb6f2db0789cbdef1-62810cb9268c564f-00",
+  "errors": {
+    "$.Nascimento": [
+      "The JSON value could not be converted to System.DateTime. Path: $.Nascimento | LineNumber: 2 | BytePositionInLine: 28."
+    ]
+  }
+}
